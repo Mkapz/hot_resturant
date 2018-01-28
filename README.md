@@ -1,1 +1,1 @@
-# hot_resturant
+# class-restaurant
